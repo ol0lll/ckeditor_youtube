@@ -1,0 +1,10 @@
+{
+    "name": "ol0lll/ckeditor_youtube",
+    "version": "master",
+    "type": "drupal-module",
+    "soure": {
+        "url": "git@github:ol0lll/ckeditor_youtube.git",
+        "type": "git"
+    }
+}
+
